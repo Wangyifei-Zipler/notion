@@ -20,7 +20,7 @@ export default siteConfig({
   twitter: '',
   github: 'Wangyifei-Zipler',
   linkedin: '',
-  // mastodon: '#', // optional mastodon profile URL, provides link verification
+  mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
@@ -54,11 +54,11 @@ export default siteConfig({
   // navigationStyle: 'custom',
   // navigationLinks: [
   //   {
-  //     title: 'About',
+  //     title: '关于',
   //     pageId: 'f1199d37579b41cbabfc0b5174f4256a'
   //   },
   //   {
-  //     title: 'Contact',
+  //     title: '联系',
   //     pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
   //   }
   // ]
