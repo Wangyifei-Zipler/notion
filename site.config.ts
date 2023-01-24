@@ -59,7 +59,7 @@ export default siteConfig({
      pageId: 'f1199d37579b41cbabfc0b5174f4256a'
     },
     {
-  title: '联系',
+  title: '归档',
     pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
     }
    ]
