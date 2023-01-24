@@ -52,11 +52,11 @@ export default siteConfig({
   // whether to use the default notion navigation style or a custom one with links to
   // important pages
   navigationStyle: 'default'
-  navigationStyle: 'custom',
-   navigationLinks: [
+  //navigationStyle: 'custom',
+  // navigationLinks: [
      {
-       title: '关于',
-      pageId: 'f1199d37579b41cbabfc0b5174f4256a'
+   //    title: '关于',
+  //    pageId: 'f1199d37579b41cbabfc0b5174f4256a'
      },
     {
       title: '联系',
