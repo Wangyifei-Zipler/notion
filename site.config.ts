@@ -55,12 +55,12 @@ export default siteConfig({
   navigationStyle: 'custom',
    navigationLinks: [
     {
-    title: '首页',
-     pageId: 'aa6fdb88d7324945837749f4f1b2051d'
+    title: 'play',
+     pageId: '5818ea617237467884570ec22ab03dda'
     },
     {
   title: '关于',
-    pageId: 'aa6fdb88d7324945837749f4f1b2051d'
+    pageId: '75166536ae104403a42fd8aa87e96245'
     }
    ]
 })
