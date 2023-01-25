@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'WangYifei’s blog',
+  name: '毓华の博客',
   domain: 'https://zipler.notion.site/WangYifei-s-Blog-aa6fdb88d7324945837749f4f1b2051d',
   author: 'Wang Yifei',
 
