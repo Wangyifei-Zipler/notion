@@ -60,7 +60,7 @@ export default siteConfig({
     },
     {
   title: '关于',
-    pageId: 'aa6fdb88d7324945837749f4f1b2051d'
+    pageId: 'aa6fdb88d7324945836649f4f1b2051d'
     }
    ]
 })
