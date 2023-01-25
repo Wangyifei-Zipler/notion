@@ -56,11 +56,11 @@ export default siteConfig({
    navigationLinks: [
     {
     title: '关于',
-     pageId: 'f1199d37579b41cbabfc0b5174f4256a'
+     pageId: 'aa6fdb88d7324945837749f4f1b2051d'
     },
     {
   title: '联系',
-    pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
+    pageId: 'aa6fdb88d7324945837749f4f1b2051d'
     }
    ]
 })
