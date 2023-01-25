@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: '毓华の博客',
   domain: 'https://zipler.notion.site/WangYifei-s-Blog-aa6fdb88d7324945837749f4f1b2051d',
-  author: 'Wang Yifei',
+  author: '王逸飞',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
