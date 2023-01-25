@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'aa6fdb88d7324945837749f4f1b2051d',
+  rootNotionPageId: '29ccddedd0ca464a9e0b63c0f19020a5',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'WangYifei’s blog',
-  domain: 'https://zipler.notion.site/aa6fdb88d7324945837749f4f1b2051d',
+  domain: 'https://zipler.notion.site/29ccddedd0ca464a9e0b63c0f19020a5?v=fd8a4847620f4ab1a440e4f4acf1b2e0',
   author: 'Wang Yifei',
 
   // open graph metadata (optional)
