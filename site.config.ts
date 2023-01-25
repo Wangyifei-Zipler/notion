@@ -43,11 +43,11 @@ export default siteConfig({
   // any pages defined here will override their default URL paths
   // example:
   //
-   pageUrlOverrides: {
-    '/foo': 'aa6fdb88d7324945837749f4f1b2051d',
-    '/bar': 'aa6fdb88d7324945837749f4f1b2051d'
-   }
- //pageUrlOverrides:null,
+   //pageUrlOverrides: {
+    //'/foo': 'aa6fdb88d7324945837749f4f1b2051d',
+   // '/bar': 'aa6fdb88d7324945837749f4f1b2051d'
+   //}
+ pageUrlOverrides:null,
   
   // whether to use the default notion navigation style or a custom one with links to
   // important pages
