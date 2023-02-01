@@ -55,7 +55,7 @@ export default siteConfig({
    navigationStyle: 'custom',
    navigationLinks: [
     {
-    title: '归档',
+    title: '时间轴',
      pageId: '5818ea617237467884570ec22ab03dda'
     },
     {
