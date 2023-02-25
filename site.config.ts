@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '参宿三',
+  name: '参宿三✨',
   domain: 'https://zipler.notion.site/WangYifei-s-Blog-aa6fdb88d7324945837749f4f1b2051d',
   author: '王逸飞',
 
